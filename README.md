@@ -4,6 +4,8 @@ A tiny React app for indecisive people: enter your ideas, edit them, and let the
 
 > App qui m'a permis de procrastiner
 
+### ⚠️ Only desktop version is supported ⚠️
+
 ## 🧰 Interface
 <img src="img.png" width="350"/>
 
@@ -25,4 +27,12 @@ npm install
 npm run dev
 ```
 
+## 🌐 Deployment
 
+
+This project is statically deployed on GitHub Pages.
+
+You can access the live version here:
+👉 https://forguesma21.github.io/dm-shuffler/
+
+The deployment is handled using gh-pages and Vite’s static export.
